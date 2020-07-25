@@ -1,0 +1,3 @@
+include ':AutoImageSlider'
+include ':app'
+rootProject.name = "ImageSlider"
